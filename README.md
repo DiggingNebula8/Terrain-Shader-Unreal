@@ -18,3 +18,5 @@ Developed this terrain material using Unreal for a private project.
 1. Tessellation and Displacement Mapping 
 2. Optimised Workflow 
 3. Better Textures and Lighting.
+#
+# Showcase video: https://www.youtube.com/watch?v=v6xfNqoVrik
